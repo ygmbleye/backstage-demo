@@ -51,8 +51,8 @@ Do you have those tools installed?
 #echo "export GITHUB_ORG=$GITHUB_ORG" >> .env
 
 #echo "export GITHUB_ORG=dirien" >> .env
-GITHUB_ORG=$(gum input --placeholder "Which GitHub organization/user do you want to use?" --value "GITHUB_ORG")
-echo "export GITHUB_ORG=$GITHUB_ORG" >>  .env
+#GITHUB_ORG=$(gum input --placeholder "Which GitHub organization/user do you want to use?" --value "GITHUB_ORG")
+echo "export GITHUB_ORG=ygmbleye" >>  .env
 
 #cd backstage-demo
 

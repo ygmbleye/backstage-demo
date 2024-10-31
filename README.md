@@ -1,3 +1,7 @@
+CIVO :SJpMlNa22LJiAkredLEscFJJVS14bW8aoRFJBDh1NoYfgl4noM
+PALUMI : pul-3f9a606b87cd628ad57621cda126f669895c7d88
+
+
 # Build Your Developer Platform in 90 Minutes - Backstage + ArgoCD + K8s
 
 This repository contains everything you need to follow along with the "Build Your Developer Platform in 90 Minutes -
